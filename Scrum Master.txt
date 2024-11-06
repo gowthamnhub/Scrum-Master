@@ -1,0 +1,81 @@
+Udemy
+-----
+https://www.udemy.com/course/psm-1-agile-scrum-master-certification-course-with-exam-questions/learn/lecture/29635948#overview
+
+Introduction
+-------------
+	What we will learn in this course?
+		1. we would be learning about Scrum theory and the role of Scrum Master.
+		2. How can we apply the Scrum framework in practice,
+			-> To do this, we will have a fictional team, client who task us with building a website
+			-> By learning the scrum theory we are going to introduce Scrum to the team, setting up the scrum events and running the first sprint.
+		2. Preparing for the PSM 1 certification
+			-> At the very end of the course, there are several pratice exam questions related to PSM 1 assessment.
+			
+Ok, here is our team of interns. Designing website for BIKE CLUB...
+
+				-> Scrum master (YOU!!!!)
+				-> Front end developer
+				-> Back end developer
+				-> Designer - who designs the website to meet the customer's needs
+				-> Product Owner - who has the range of experience with the customer business (bike club) and put in charge of owning the product and make sure it is of value.
+				
+	Unfortunately, BIKE CLUB is not very clear on their requirements, it can be easily predicted they can change once the work begins. 
+		-> So for all these reason, you have been told to follow the Agile Principles and Scrum Framework, so you can build iteratively and adapt as needed.
+		-> Though you have some project experience, but you do not know anything about Agile and Scrum, neither the team of interns.
+		
+SCRUM in Under 5 Minutes
+-------------------------
+	What is Agile?
+		Agile is a project management/development approach which doesn't prescribe process/steps to follow but a mindset that focusses more on collaboration, adaptability, iterative progress on development and delivering value to customers.
+		
+	-> Scrum is one of the framework within Agile to help follow, achieve the Agile Principles.
+		-> It has more of structured way/process/steps to follow to achieve the Agile principles Adaptability, Customer Focus, Quality.
+		
+		Scrum does follow time boxed sprints to perform iterative development.
+		Generally the team following scrum, sprint based development must have required skills to complete the assigned or committed items for the respective sprint.
+			Speaking of team, it should have;
+			---------------------------------
+				PO - who owns the product, manages the backlog to add value to the product.
+					-> Accountable for maximising the value of the product.
+					
+				Scrum master 
+					-> helps coach the team to work better in the Scrum Framework, follow scrum principles, remove impediments in following the scrum
+					-> mostly work with team to understand where we stand in completing the items, if any blockers and resolve.
+					-> to work with PO to align the backlog, sprint board based on the team's capacity and with the goals that to be achieved/completed
+					-> Coach team with different trainings for better communication within / across teams, for the agile mindset.
+					-> Analyze different charts to understand how as a team we are performing.
+					-> Prepare for next planning, retrospective meetings, sprint reviews/demos
+					-> Daily standups.
+					-> Make sure the team is engaged and not diverted from the committed ones, through any external requests ensure it is not affecting the team.
+					
+				Developers
+					-> Who actually develops the product and its increments.
+				
+			OK, now we have sprint, and the team who work in it, and the increments are created.
+		
+		How do we get it reviewed with the business stakeholders/customers?	
+		---------------------------------------------------------------------
+			-> That is why we have Sprint Review at the end of every sprint, this is part of the scrum framework itself.
+			-> Here the stakeholders/customers can view what has been completed and provide their feedback which team can take it into their next sprints.
+			
+		How do we discuss the lessons learned in sprint/improvements that needed for the next sprints?
+		------------------------------------------------------------------------------------------------
+			-> This is "Sprint Retrospective" meeting this happens at the end of sprint, to discuss with team what went well, not well, any issues, how can we improve process and Quality.
+		
+		How do we plan for the sprint? how do we pick work for the sprint?
+		-------------------------------------------------------------------
+			-> This is "Sprint Planning" where team sits with PO to pick the work for the next sprint from Product Backlog
+			-> So from "Product Backlog" -> Sprint Planning -> "Sprint Backlog" where team would pick work from 
+				
+				"To-do -> In Progress -> Acceptance Review -> Definition of done -> Completed"
+				
+		How does one let team/PO/Scrum master know what is done yesterday? what is planned for today? any issues/blockers?
+		-------------------------------------------------------------------------------------------------------------------
+			-> This is "Daily Scrum/ Standup" meeting to know if they are on track for the sprint's goal.
+			
+				
+				
+			
+			
+			
