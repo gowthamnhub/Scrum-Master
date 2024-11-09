@@ -74,7 +74,45 @@ SCRUM in Under 5 Minutes
 		-------------------------------------------------------------------------------------------------------------------
 			-> This is "Daily Scrum/ Standup" meeting to know if they are on track for the sprint's goal.
 			
+What are the effective things that a Scrum Master can do to make better team? 
+------------------------------------------------------------------------------
+	-> To make every meeting conducted relevant with clear agenda, as short and crisp so that the message need to be conveyed/discussed are effectively done.
+		-> Standups - mostly within 15mins.
+		-> if something is going off topic, ensure organize it better way or make it a seperate meeting after stand up.
+	
+	-> Have a goal for the sprint, that what is going to be completed after the sprint, and ensure team is well aware of the sprint goal on a higher level than individual tasks and make them understand why they need to own their tasks efficiently to achieve the bigger goal that is sprint goal.
+	
+	-> Ensure team is well focussed and not diverted because of any other requests/tasks coming mid sprint/after the sprint started.
+	
+	-> Ensure team do not get bored of any repetetive work, keep mix of work/challenges which can help them grow as well, organize environment for better collaboration/trainings sessions.
+		-> For eg: If only one person is doing QE, we can have someone paired up with QE rotatively to ensure new functionalities are learned by team across.
+
+	-> Ensure sprint retrospectives are effectively involving team to share their thoughts, instead of what went well/didn't like, make it more interactive/engaging way.
+			-> I think this is important event to make team collaborative if we make it very engaging and interesting.
+				But how do we do? Lets think.............
 				
+	-> Can organize Skill Building Sessions / Team building activities - 
+			-> Probably some online games, coffee chats, or even small celebrations for sprint completions
+			
+-> To make effective retro, one of the different approach that can be done is STOP, START, CONTINUE for each person what they would like to START/STOP/CONTINUE in the next sprint....
+			-> But need to see how effectively this can be incorporated in the retro to the team so that they really accept it.
+			
+The SCRUM GUIDE - https://scrumguides.org/
+				-> Ultimate study guide to prepare for the PSM 1 exam. Relatively short document, but need in detail understanding of the document to clear the exam, it looks like the exam cost is around 23k ~ 27k.
+				
+	Scrum is framework developed by "Ken Schwaber & Jeff Sutherland" way back in 1990s, over the period it has been kept incrementally updated which is core spirit of Scrum, meaning they follow what they preach.
+
+	Initially it is designed/developed for software development, but it is currently being followed across industries.
+	Every element of scrum is essential and must be followed, omitting any could cover up the problems, and the benefit of scrum could not be realised.
+
+	Ok now what I think is this course is talking about the points/details from scrum guide, as we have taken print, lets go through it tomorrow. 
+		-> Get something out of it.
+		-> Then with that small knowledge we can go through further to increase the knowledge.
+		
+	I can sense once we complete the Scrum Guide, we will already have a kind of better overall understanding, further expanding knowledge on it.	
+				-> Ultimate study guide to prepare for the PSM 1 exam. Relatively short document, but need in detail understanding of the document to clear the exam, it looks like the exam cost is around 23k ~ 27k.
+			
+			
 				
 			
 			
