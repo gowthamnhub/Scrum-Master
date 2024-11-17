@@ -130,9 +130,19 @@ SCRUM DEFINITION
 	-> Various processes can be employed within the scrum framework until it adds value, if not it can be removed.
 	-> Scrum makes visible the relative efficacy(efficieny)of the team, management, processes, environment and work techniques, so that improvements can be made.
 	
+		This summarizes Scrum in nutshell:
+		-----------------------------------
+			Complex Problem -> PO orders the work as product backlog -> Team selects a bit of work and complete it in sprint -> Reviewed and inspected by team and stakeholders -> Adjust for the next sprint -> Proceed
 			
-			
-				
+		We will look at more about Agile Manifesto and Agile Principles later in the course, but if possible its better to read it sooner as possible as its worth the read.
+		
+	Lets see and learn more about Scrum Master and the Roles within the Scrum team.
+
+Scrum Glossary
+===============
+		Here we can find the meanings of various scrum terms like (Burn up, Burn down, Sprint planning, sprint retrospective, review, sprint, scrum master, scrum team, velocity etc..,
+		
+								https://www.scrum.org/resources/scrum-glossary
 			
 			
 			
