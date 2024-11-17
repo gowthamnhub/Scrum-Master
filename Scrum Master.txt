@@ -100,6 +100,9 @@ What are the effective things that a Scrum Master can do to make better team?
 The SCRUM GUIDE - https://scrumguides.org/
 				-> Ultimate study guide to prepare for the PSM 1 exam. Relatively short document, but need in detail understanding of the document to clear the exam, it looks like the exam cost is around 23k ~ 27k.
 				
+PURPOSE OF THE SCRUM GUIDE:
+===========================				
+				
 	Scrum is framework developed by "Ken Schwaber & Jeff Sutherland" way back in 1990s, over the period it has been kept incrementally updated which is core spirit of Scrum, meaning they follow what they preach.
 
 	Initially it is designed/developed for software development, but it is currently being followed across industries.
@@ -109,8 +112,24 @@ The SCRUM GUIDE - https://scrumguides.org/
 		-> Get something out of it.
 		-> Then with that small knowledge we can go through further to increase the knowledge.
 		
-	I can sense once we complete the Scrum Guide, we will already have a kind of better overall understanding, further expanding knowledge on it.	
-				-> Ultimate study guide to prepare for the PSM 1 exam. Relatively short document, but need in detail understanding of the document to clear the exam, it looks like the exam cost is around 23k ~ 27k.
+	I can sense once we complete the Scrum Guide, we will already have a kind of better overall understanding, further expanding knowledge on it.
+
+SCRUM DEFINITION
+================
+	"Scrum" is  light weight framework that helps the team, organization and stakeholders generate value through adapative solutions to complex problems.
+	
+	The major duty of "Scrum Master" is to foster(raise, cultivate) an environment where;
+		
+		-> Product Owner can create a set of work for the "Complex Problems" (Probably the business problem faced by Customer)
+		-> The Scrum team turns a selection of work in to a increment of value during a sprint.
+		-> The Scrum team and its Stakeholders (POs, PMGs, Architects, other teams) inspects the results and make adjustment for the next sprint.
+		-> Repeat...
+		
+	-> Scrum is purposely incomplete, just defining the essential parts/events to implement the scrum theory.
+	-> Scrum is built upon by the collective intelligence of people using it, rather than providing detail instructions, the scrum guide their roles,relationships and interactions.
+	-> Various processes can be employed within the scrum framework until it adds value, if not it can be removed.
+	-> Scrum makes visible the relative efficacy(efficieny)of the team, management, processes, environment and work techniques, so that improvements can be made.
+	
 			
 			
 				
